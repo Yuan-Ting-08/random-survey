@@ -8,7 +8,6 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232',
+	'https://www.figma.com/proto/qG3pUPl0ctFeGvZ9LWH5yN/Pacebook--%E6%9C%89%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F-?t=QEThoHe55xvAVxSm-1',
+	'https://www.figma.com/proto/t4FroQ5wCB9VpwU8tDoJe4/Pacebook?node-id=0-1&t=VgeWQSVMRZPTJklk-1',
 ];
